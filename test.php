@@ -1,3 +1,3 @@
 <?php
 echo "hello world";
-$new_var = 5;
+$count = 5;
